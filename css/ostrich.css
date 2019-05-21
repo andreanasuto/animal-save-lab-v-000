@@ -5,11 +5,10 @@ html {
 #ostrich {
   position: fixed;
   top: 0;
-  margin-bottom: 200;
   right: 0;
 }
 
 /* Write your solution here */
 #ostrich img {
-
+  margin-bottom: 200;
 }
