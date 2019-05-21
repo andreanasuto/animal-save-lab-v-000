@@ -5,11 +5,12 @@ html {
 #ostrich {
   position: absolute;
   top: 0;
+  right: 0;
 }
 
 /* Write your solution here */
 
 #ostrich img {
   top: -50%;
-  height: 50%;
+  height: 40%;
 }
