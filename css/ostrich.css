@@ -4,9 +4,11 @@ html {
 
 #ostrich {
   position: fixed;
-  top: 50px;
-  left: 200;
-  right: 0
+  top: 0px;
+  right: 0;
 }
 
 /* Write your solution here */
+#ostrich img {
+
+}
